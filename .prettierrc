@@ -1,0 +1,9 @@
+{
+    "printWidth": 120,
+    "singleQuote": true,
+    "trailingComma": "all",
+    "tabWidth": 4,
+    "endOfLine": "auto",
+    "bracketSpacing": false,
+    "arrowParens": "avoid"
+}
